@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/narcisods](https://github.com/narcisods)
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **my time as a Chef!**
 
 - 📫 How to reach me **narcisodsalvador@gmail.com**
 
