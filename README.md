@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narciso Salvador</h1>
-<h3 align="center">A former Michelin Starred Chef turned Software Engineer</h3>
+<h3 align="center">Fullstack Software Engineer former Michilin-starred chef</h3>
 
 - 🔭 I’m currently working on [Codewars!](https://github.com/narcisods/CodeWars)
 
