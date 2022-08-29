@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narciso Salvador</h1>
 <h3 align="center">Fullstack Software Engineer former Michelin-starred chef</h3>
 
-- 🔭 I’m currently working on [Codewars!](https://github.com/narcisods/CodeWars)
+- 🔭 I’m currently working on Recipe Blackbook!
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/narcisods](https://github.com/narcisods)
+- 👨‍💻 All of my projects are available at [Narcisosalvador.com](narcisosalvador.com)
 
 - 💬 Ask me about **my time as a Chef!**
 
