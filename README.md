@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at narcisosalvador.com
+- 👨‍💻 All of my projects are available at (narcisosalvador.com)
 
 - 💬 Ask me about **my time as a Chef!**
 
