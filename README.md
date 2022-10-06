@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on BackPocket! A full stack web application geared towards professional chefs.
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [narcisosalvador.com](https://www.narcisosalvador.com)
 
 - 💬 Ask me about **my time as a Chef!**
