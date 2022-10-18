@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narciso Salvador</h1>
 <h3 align="center">Fullstack Software Engineer former Michelin-starred chef</h3>
 
-- 🔭 I’m currently working on Chef's Black Book! A full stack web application geared towards professional chefs.
+- 🔭 I’m currently working on Chef's Black Book! A full stack web application geared towards professional chefs. Check it out here! [Chef's Black Book](https://narcisosalvador.com/images/chefsbb.png)
 
 - 👨‍💻 All of my projects are available at [narcisosalvador.com](https://www.narcisosalvador.com)
 
