@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Chef's Black Book! A full stack web application geared towards professional chefs. Check it out here! [Fish On!](https://github.com/narcisods/fish-on)
 
-- 👨‍💻 All of my projects are available at [narcisosalvador.com](https://www.narcisosalvador.com)
+- 👨‍💻 All of my projects are available at [narcisods.github.io](https://narcisods.github.io)
 
 - 💬 Ask me about **my time as a Chef!**
 
